@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+  }
+  #erasor {
+    visibility: hidden;
+  }
+ 
+  #actor_show {
+    visibility: hidden;
+  }
+  
+  img {
+    height: 150px;
+    float: center;
+  }
+  
+  #p3 {
+    font-size: 20px;
+  }
+  
+  
+  #dos {
+    visibility: hidden;
+  }
+  #uno {
+    visibility: hidden;
+  }
