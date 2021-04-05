@@ -50,7 +50,6 @@ let tryagain = function () {
 };
 
 //cette fonction permet de definir ou invercé la visibilité d un element selon le 2 eme parametre
-("here we can decide the state of visibility of an object, visible, hidden, or inverse the state");
 function seeornot(objectID, state) {
   var object = document.getElementById(objectID);
   real_state = object.style.visibility;
